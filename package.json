@@ -1,0 +1,23 @@
+{
+	"name": "ForkPlayer",
+	"date": "2018.03.18",
+	"version": "1.0.0",
+	"description": "ForkPlayer — это браузер с адаптированным под ваше устройство просмотром сайтов (список сайтов постоянно обновляется) и созданных вами XML, M3U (IPTV) плейлистов.",
+	"author": {
+		"name": "BetaMaster"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/betamaster2/ForkPlayer.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "ForkPlayer",
+		"legacy": true,
+		"description": "ForkPlayer — это браузер с адаптированным под ваше устройство просмотром сайтов (список сайтов постоянно обновляется) и созданных вами XML, M3U (IPTV) плейлистов.",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
